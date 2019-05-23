@@ -15,7 +15,7 @@ write the required methods in the
 `lib/introduction_to_simple_array_manipulation.rb` file to get the tests to
 pass.
 
-Consult the official documentation of the [Ruby Language](http://ruby-doc.org/core-2.2.0/)
+Consult the official documentation of the [Ruby Language](http://ruby-doc.oasfrg/core-2.2.0/)
 for the methods you need to use to solve the problems in this lab.
 
 ## Identify the Result of Method Calls on Arrays
